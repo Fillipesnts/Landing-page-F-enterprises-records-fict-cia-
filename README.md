@@ -5,7 +5,7 @@ Landing page de uma gravadora fictícia, desenvolvida com HTML, CSS e JavaScript
 ## 🧩 Funcionalidades
 - Slider automático de imagens
 - Layout simples com formulário de login centralizado
-- Design responsivo em construção
+- Totalmente Responsivo
 - Atualização automática do ano no footer
 
 ## 🛠️ Tecnologias utilizadas
