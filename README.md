@@ -13,5 +13,8 @@ Landing page de uma gravadora fictícia, desenvolvida com HTML, CSS e JavaScript
 - CSS3 (Flexbox)
 - JavaScript (DOM + setInterval)
 
+## 🔗 Links
+- 🎨 Design no Behance: https://www.behance.net/gallery/241616109/Landing-page-de-uma-gravadora-ficticia
+
 ## 🚀 Como executar
 Basta abrir o arquivo `index.html` no navegador.
