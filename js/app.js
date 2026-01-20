@@ -28,4 +28,4 @@ setInterval(nextSlide, 3000);
 // Ano
 const ano = document.getElementById("ano");
 
-ano.textContent= new Date().getFullYear()
+ano.textContent= new Date().getFullYear();
